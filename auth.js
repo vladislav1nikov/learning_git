@@ -1,3 +1,3 @@
 function auth() {
-  console.log("authenticate");
+  console.log("lolka");
 }
