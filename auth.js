@@ -1,3 +1,4 @@
 function auth() {
-  console.log("authenticate");
+  console.log("lol...");
+  console.log("authenticate...");
 }
