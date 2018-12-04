@@ -1,3 +1,3 @@
 function reg() {
-  console.log("reg");
+  console.log("reg!!!");
 }
