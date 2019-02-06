@@ -1,3 +1,3 @@
 function deductNumber(a, b) {
-  return a - b; // lol
+  return a - b;
 }
